@@ -1,0 +1,12 @@
+#what is a loop
+#Loops can execute a block of code number of times until a certian condition is met.
+#Their usage is fairly common in prgramming.
+#For Loop, While Loop, do while etc,.
+#
+#what is for loop
+#For loop is used to iterate over elements of a sequence.
+#It is often used when you have a piece of code which you want to repeat"n" number of times
+#In python For Loops are called "iterators"
+#for variable_expression in sequence:
+        statement1
+        statement2
